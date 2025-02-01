@@ -9,7 +9,7 @@ const Login = () => {
   const [error, setError] = useState('');
 
   const VALID_USERNAME = 'rupesh';
-  const VALID_PASSWORD = 'gandu';
+  const VALID_PASSWORD = 'mc';
 
   const handleSubmit = (e) => {
     e.preventDefault();
